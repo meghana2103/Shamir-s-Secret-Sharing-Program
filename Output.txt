@@ -1,0 +1,2 @@
+The constant term c for Test Case 1 is: 3.0
+The constant term c for Test Case 2 is: 2.8735619723864E13
